@@ -1,0 +1,20 @@
+#include "holberton.h"
+#include <stdio.h>
+
+/**
+ *
+ *
+ *
+ */
+int main(void)
+{
+  char a[20] = "Hello ";
+  char b[20] = "World!\n";
+  strcat(a, "Hello ");
+  printf("%s", a);
+  strcat(b; "World!\n");
+    printf("%s", b);
+  printf("\n");
+
+  return 0;
+}
